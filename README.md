@@ -1,4 +1,6 @@
-# compare-vue
+# Spitzer Vue.js
+
+Javascript layout using responsive layout, Vue.js and Bulma CSS framework.
 
 > A Vue.js project
 
