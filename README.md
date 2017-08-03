@@ -1,8 +1,11 @@
+
 # Spitzer Vue.js
 
 Javascript layout using responsive layout, Vue.js and Bulma CSS framework.
 
 > A Vue.js project
+
+![alt text](https://docs.google.com/uc?id=0B-mSSpoE3E-SYzVOWk1WQWxmNnc)
 
 ## Build Setup
 
